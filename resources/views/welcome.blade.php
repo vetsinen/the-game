@@ -48,7 +48,7 @@
         <h1>8ic-8ac-8oe</h1>
         <ul id="game">
             <!-- first row -->
-            <li data-pos="0,0"></li>
+            <li data-pos="0,0" class="x">x</li>
             <li data-pos="0,1"></li>
             <li data-pos="0,2"></li>
             <!-- second row -->
@@ -63,7 +63,6 @@
 
         <button id="reset-game">Reset Game</button>
 
-        <!-- Game Messages -->
     </div>
 </div>
 
